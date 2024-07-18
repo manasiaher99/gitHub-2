@@ -1,0 +1,1 @@
+console.log("For GitHub practice")
