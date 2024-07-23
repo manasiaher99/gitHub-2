@@ -1,4 +1,4 @@
 console.log("For GitHub practice")
 console.log("Hello!")
 
-console.log("Bye!")
+console.log("Hiii!")
